@@ -1,7 +1,3 @@
-Here is a proposed restructuring of the README.md file for GitDeployX:
-
----
-
 # 🚀 GitDeployX: Automated GitHub Deployment & Service Restart
 
 GitDeployX automates code deployment from GitHub and restarts application services like Nginx, Node.js, Python (Gunicorn), etc. after pulling the latest code. It also maintains backups and logs deployment history for easy tracking.
