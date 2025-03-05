@@ -1,0 +1,10 @@
+# Ignore sensitive configuration files
+config.env
+
+# Ignore logs and backups
+logs/
+backup/
+
+# Ignore system files
+*.swp
+.DS_Store
